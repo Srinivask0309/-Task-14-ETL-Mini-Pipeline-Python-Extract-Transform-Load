@@ -1,0 +1,11 @@
+OrderID,CustomerID,CustomerName,Product,Category,Sales,Profit
+1,C1,A,Laptop,Tech,50000,12000
+2,C2,B,Chair,Furniture,8000,1500
+3,C3,C,Pen,Office,200,50
+4,C1,A,Mouse,Tech,1500,300
+5,C4,D,Table,Furniture,12000,2500
+6,C5,E,Phone,Tech,30000,7000
+7,C2,B,Desk,Furniture,9000,1800
+8,C6,F,Laptop,Tech,52000,14000
+9,C7,G,Pen,Office,300,80
+10,C3,C,Mouse,Tech,1800,400
